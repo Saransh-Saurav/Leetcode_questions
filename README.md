@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
