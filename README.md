@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -36,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
