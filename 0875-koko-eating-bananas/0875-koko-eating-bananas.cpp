@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long FindingCeiling(vector<int>& piles, int mid){
+    long long Finding_hours(vector<int>& piles, int mid){
         long long hours=0;
         for(int i:piles){
             hours+=ceil((double)i/mid); // ya use (i+mid-1)/mid
@@ -14,7 +14,7 @@ public:
         int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
-            long long hours=FindingCeiling(piles,mid);
+            long long hours=Finding_hours(piles,mid);
             if(hours<=h){
                 ans=mid;
                 high=mid-1;
