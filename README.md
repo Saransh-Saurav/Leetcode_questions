@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1732-find-the-highest-altitude](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
