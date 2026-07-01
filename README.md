@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
