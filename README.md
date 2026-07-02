@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [1189-maximum-number-of-balloons](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0165-compare-version-numbers) |
 ## Greedy
 |  |
 | ------- |
