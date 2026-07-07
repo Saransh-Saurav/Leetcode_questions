@@ -10,8 +10,7 @@ public:
         int sum=0;
         while(rev>0){
             if(rev%10!=0){
-                x=x*10;
-                x+=rev%10;
+                x=x*10+rev%10;
                 
             }
             sum+=rev%10;
