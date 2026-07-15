@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0070-climbing-stairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0196-delete-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
