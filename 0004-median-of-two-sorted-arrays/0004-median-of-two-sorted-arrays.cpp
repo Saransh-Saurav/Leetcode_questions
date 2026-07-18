@@ -1,38 +1,27 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        if(nums2.size()<nums1.size())return findMedianSortedArrays(nums2,nums1);
         int n=nums1.size();
         int m=nums2.size();
-        int total=n+m;
-        int mid1=(total-1)/2;
-        int mid2=total/2;
-        int count=0;
-        int i=0,j=0;
-        int first=0,second=0;
-        while(i<n || j<m){
-            int value;
-            if(i<n && (j>=m || nums1[i]<nums2[j])){
-                value=nums1[i];
-                i++;
-            }
-            else {
-                value=nums2[j];
-                j++;
-            }
+        int low=0,high=n;
+        while(low<=high){
+            int cut1=(low+high)/2;
+            int cut2=(n+m+1)/2 -cut1;
 
-            if(count==mid1){
-                first=value;
+            int left1= cut1==0 ? INT_MIN:nums1[cut1-1];
+            int left2= cut2==0? INT_MIN:nums2[cut2-1];
+            int right1= cut1==n? INT_MAX:nums1[cut1];
+            int right2= cut2==m? INT_MAX:nums2[cut2];
+
+            if(left1<=right2 && left2<=right1){
+                if((n+m)%2==0) return((max(left1,left2)+min(right1,right2))/2.0);
+                else return max(left1,left2);
             }
-            if(count==mid2){
-                second=value;
-            }
-            
-            count++;
+            else if(left1>right2)high=cut1-1;
+            else low=cut1+1;
         }
 
-        if(total%2==0){
-            return (first+second)/2.0;
-        }
-        else return second;
+        return 0.0;
     }
 };
