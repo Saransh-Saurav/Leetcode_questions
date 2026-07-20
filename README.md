@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
@@ -171,5 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
