@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
