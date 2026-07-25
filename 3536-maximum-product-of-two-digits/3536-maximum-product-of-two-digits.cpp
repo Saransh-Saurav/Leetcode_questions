@@ -8,7 +8,10 @@ public:
         ans.push_back(i);
         temp/=10;
        }
-       sort(ans.begin(),ans.end());
-       return ans[ans.size()-1]*ans[ans.size()-2];
+       int max1=*max_element(ans.begin(), ans.end());
+       auto it = max_element(ans.begin(), ans.end());
+       *it = 0;
+       int max2=*max_element(ans.begin(), ans.end());
+       return max1*max2;
     }
 };
