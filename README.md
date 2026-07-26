@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1260-shift-2d-grid) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
