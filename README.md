@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0165-compare-version-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0070-climbing-stairs) |
