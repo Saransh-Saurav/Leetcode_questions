@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
