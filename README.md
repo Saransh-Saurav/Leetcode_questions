@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
