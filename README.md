@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Saransh-Saurav/Leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
